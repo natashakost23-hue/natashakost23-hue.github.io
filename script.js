@@ -2,7 +2,7 @@
 const CONFIG = {
     // ВАЖНО: Измените этот адрес на ваш ngrok адрес или production API
     // Пример: https://abc123.ngrok.io
-    API_BASE_URL: ' https://showdown-nutlike-gizzard.ngrok-free.dev',
+    API_BASE_URL: 'https://showdown-nutlike-gizzard.ngrok-free.dev',
     
     // Endpoint для получения профиля
     // Ожидается ответ: { user_id, username, email }
